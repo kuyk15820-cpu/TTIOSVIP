@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AppReleaseDisplayVersion</key>
-	<string>1.0.0</string>
+	<string>1.1.1</string>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>th</string>
+	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>c4</string>
 	<key>CFBundleDocumentTypes</key>
@@ -74,10 +74,8 @@
 
 	<key>UIFileSharingEnabled</key>
 	<true/>
-	<key>CADisableMinimumFrameDurationOnPhone</key>
-	<true/>
 
-	<key>UILaunchScreen</key>
+		<key>UILaunchScreen</key>
 	<dict>
 		<key>UIImageName</key>
 		<string>AppIcon-1024</string>
