@@ -4,8 +4,6 @@
 <dict>
 	<key>AppReleaseDisplayVersion</key>
 	<string>1.0.0</string>
-	<key>CADisableMinimumFrameDurationOnPhone</key>
-	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>th</string>
 	<key>CFBundleDisplayName</key>
@@ -70,8 +68,15 @@
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 	</dict>
+
+	<key>UIUserInterfaceStyle</key>
+	<string>Dark</string>
+
 	<key>UIFileSharingEnabled</key>
 	<true/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+
 	<key>UILaunchScreen</key>
 	<dict>
 		<key>UIImageName</key>
@@ -79,6 +84,7 @@
 		<key>UIImageRespectsSafeAreaInsets</key>
 		<true/>
 	</dict>
+
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -90,8 +96,6 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIUserInterfaceStyle</key>
-	<string>Dark</string>
 	<key>UTExportedTypeDeclarations</key>
 	<array>
 		<dict>
