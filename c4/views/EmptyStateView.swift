@@ -43,7 +43,7 @@ struct EmptyStateView: View {
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         // 🟢 ขยายพื้นที่คำนวณไปถึง Safe Area เพื่อให้อยู่กึ่งกลางหน้าจอจริง ไม่โดน Navigation Bar ดันลงมา
-        .ignoresSafeArea(.container, edges: .top)
+       // .ignoresSafeArea(.container, edges: .top)
     }
 }
 
