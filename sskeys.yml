@@ -54,7 +54,7 @@ keys:
   downloadProgressFormatHundred: "Downloading... (100%)"
 
   # QuickApplyView System Icons (SF Symbols)
-  iconEmptyState: "square.stack.3d.up.slash"
+  iconEmptyState: "p.square"
   iconCheckmarkCircle: "checkmark.circle"
   iconCircle: "circle"
   iconRefresh: "arrow.clockwise"
